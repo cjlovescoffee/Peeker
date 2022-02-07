@@ -1,5 +1,5 @@
 # Peeker
-A class to iterate over a sequence/iterable with the option to look behind/ahead at size elements.
+A class to iterate over a sequence/iterable with the option to look behind/ahead at `size` elements.
 
 ## Usage
 
